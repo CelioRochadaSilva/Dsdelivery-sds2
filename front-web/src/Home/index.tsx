@@ -6,9 +6,9 @@ function Home() {
 
     return (
         < >
-            <div className=" home-container">
+            <div className="home-container">
                 <div className="home-content">
-                    <div className=" home-actions">
+                    <div className="home-actions">
                         <h1 className="home-title">
                             Faça seu pedido <br />que entregamos<br /> pra você!!!
                  </h1>
@@ -19,7 +19,7 @@ function Home() {
                             FAZER PEDIDO
                  </a>
                     </div>
-                    <div className=" home-image">
+                    <div className="home-image">
                         <MainImage />
                     </div>
                 </div>
