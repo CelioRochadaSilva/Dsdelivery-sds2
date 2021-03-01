@@ -1,2 +1,2 @@
 # dsdelivery-sds2
-- Conteudo em desenvlvimento
+- Conteudo em desenvolvimento
